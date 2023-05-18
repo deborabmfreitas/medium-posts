@@ -1,4 +1,4 @@
-## Posts do Medium ✍🏻
+## Posts do Medium
 
 
 Esse repositório foi criado para servir de apoio para artigos do Medium. [Confira mais por aqui](https://medium.com/@deborabmfreitas) ✍🏻
